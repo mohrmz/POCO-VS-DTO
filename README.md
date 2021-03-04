@@ -71,4 +71,6 @@ public class Product
 
 ```
 
+https://ardalis.com/dto-or-poco/
+
 </div>
